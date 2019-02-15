@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="aopadvice" />
+        <module name="aop-advice" />
+        <module name="joinpoints" />
+        <module name="order" />
+        <module name="pointcutdeclaration" />
       </profile>
     </annotationProcessing>
   </component>
